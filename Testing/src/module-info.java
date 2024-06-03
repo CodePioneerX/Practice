@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author haris
- *
- */
-module Testing {
-}
